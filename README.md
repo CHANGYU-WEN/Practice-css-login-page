@@ -1,4 +1,5 @@
-#CSS 登入頁面切版實作
+CSS 登入頁面切版實作
+---
 
 
-![登入頁面切版](https://github.com/user-attachments/assets/ad486e4d-d3df-4c9c-b57a-d7502554c1db)
+![登入頁面切版](https://github.com/CHANGYU-WEN/Practice-css-login-page/blob/main/Practice-css-login/%E7%99%BB%E5%85%A5%E9%A0%81%E9%9D%A2%E5%88%87%E7%89%88.png)
